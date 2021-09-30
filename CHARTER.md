@@ -1,6 +1,6 @@
 ---
-title: "[]{#_n70ytha73chp .anchor}RISC-V Datacenter & Cloud Computing
-  Charter V0.9"
+title: "RISC-V Datacenter & Cloud Computing
+  Charter V1.0"
 ---
 
 > Charter: This charter describes operations as a RISC-V DataCenter &
